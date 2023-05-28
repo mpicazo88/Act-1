@@ -96,7 +96,7 @@ class _LoginPageState extends State<LoginPage> {
   }
 
   Widget _title() {
-    return const Text('Firebase Auth');
+    return const Text('Firebase');
   }
 
   Widget _entryField(String title, TextEditingController con, bool isPassword) {
