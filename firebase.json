@@ -22,8 +22,7 @@
     }
   ],
   "hosting": {
-    "site": "act-picazo",
-    "public": "build/web",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
